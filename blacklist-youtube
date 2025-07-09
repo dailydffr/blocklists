@@ -1,7 +1,24 @@
 ## Block all youtube content
 
+## Core YouTube domains
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
+
+## App backend APIs
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 r1---sn-*.googlevideo.com
+0.0.0.0 r2---sn-*.googlevideo.com
+
+## Related Google APIs
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 play.google.com
