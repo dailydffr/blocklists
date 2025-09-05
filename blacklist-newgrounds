@@ -7,7 +7,7 @@
 0.0.0.0 ungrounded.net
 
 ## GEOMETRY DASH NEEDS THESE DOMAINS:
-#0.0.0.0 audio.ngfiles.com
-#0.0.0.0 img.ngfiles.com
-#0.0.0.0 api.newgrounds.com
-#0.0.0.0 www.newgrounds.com
+0.0.0.0 audio.ngfiles.com
+0.0.0.0 img.ngfiles.com
+0.0.0.0 api.newgrounds.com
+0.0.0.0 www.newgrounds.com
